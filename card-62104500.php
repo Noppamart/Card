@@ -145,7 +145,8 @@
              <input type="text" id="lat" placeholder="Latitude" value="9.554536785695388">
              <input type="text" id="lon" placeholder="Longitude" value="99.93171756187759">
              <button id="Load" class="btn-lm btn-primary" >Load</button>
-           
+          </div>
+               
              <div class="DataWeatherCard">
                  <h3><span id="location">Location Name : </span></h3>
                  <h5><span id="country">Country : </span></h5>
@@ -158,6 +159,7 @@
                  <h5><span id="wind_speed">Wind Speed : </span> M/s</h5>
                  <h5><span id="clouds">Cloud: </span> %</h5>
              </div>
+
              <div class="loadweather">
                  <h5>Location Name : <span id="location2"></span></h5>
                  <h5>Country : <span id="country2"></span></h5>
@@ -170,6 +172,8 @@
                  <h5>Wind Speed : <span id="wind_speed2"></span> M/s</h5>
                  <h5>Cloud : <span id="clouds2"></span> %</h5>
              </div>
-         </div>  
+
+         </div>
+         
 </body>
 </html>        
