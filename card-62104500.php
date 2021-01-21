@@ -170,7 +170,6 @@
                  <h5>Wind Speed : <span id="wind_speed2"></span> M/s</h5>
                  <h5>Cloud : <span id="clouds2"></span> %</h5>
              </div>
-         </div>
-        </div>  
+         </div>  
 </body>
 </html>        
