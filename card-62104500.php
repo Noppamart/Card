@@ -145,7 +145,7 @@
              <input type="text" id="lat" placeholder="Latitude" value="9.554536785695388">
              <input type="text" id="lon" placeholder="Longitude" value="99.93171756187759">
              <button id="Load" class="btn-lm btn-primary" >Load</button>
-          </div>  
+           
              <div class="DataWeatherCard">
                  <h3><span id="location">Location Name : </span></h3>
                  <h5><span id="country">Country : </span></h5>
