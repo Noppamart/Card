@@ -171,6 +171,6 @@
                  <h5>Cloud : <span id="clouds2"></span> %</h5>
              </div>
          </div>
-         
+        </div>  
 </body>
 </html>        
